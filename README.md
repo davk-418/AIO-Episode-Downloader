@@ -25,9 +25,11 @@ These can be installed by running `pip install tqdm colorama mutagen`
 # Usage
 
 - Open console (Command Prompt) and drag the file into it. Press Enter to run the file.
-- When prompted for directory (where file will save), paste directory and press Enter (see [Directory.txt](Directory.txt) on how to find directory)
+- When prompted for directory (where file will save), paste directory and press Enter (see [Directory](Directory.txt) on how to find directory)
 - When prompted for cover art embedding (`Embed cover art? (y/n):`), type `y` and press Enter to embed cover art or type `n` and press Enter to skip cover art embedding
 - If you chose `y` for cover art, you’ll see: `Keep original MP3 after embedding cover? (y/n):` Type `y` to keep both versions, or `n` to only keep the cover‑embedded copy.
-- When prompted for cURL (see [tutorial.gif](tutorial.gif) to find the cURL), paste and press Enter twice. If all goes well, episode will download.
+- When prompted for cURL (see [Tutorial](tutorial.gif) to find the cURL), paste and press Enter twice. If all goes well, episode will download.
 - If you chose cover art, you’ll be asked: `Cover URL (blank to skip):` Paste a direct image link (ending in .jpg or .png). These can be found by searching for the episode on Google, right clicking the image, and clicking `Copy Image Link`.
 - When prompted `Press Enter for another or 'q'+Enter to quit:`, press Enter to download another episode or press `q` then Enter to quit.
+
+See [Example and Troubleshooting](Example and Troubleshooting.txt) to find an example and directions for issues. 
