@@ -1,4 +1,4 @@
-escription (Windows OS 
+# Description (Windows OS 
 
 Python script to download Adventures in Odyssey episodes with optional cover embedding
 
@@ -25,6 +25,7 @@ These can be installed by running `pip install tqdm colorama mutagen`
 ---
 # Usage
 
+- Download script. AIO Downloader V3 is the latest (and best) version, but if it fails V2 also work.
 - Open console (Command Prompt) and drag the file into it. Press Enter to run the file.
 - When prompted for directory (where file will save), paste directory and press Enter (see [Directory](Directory.txt) on how to find directory)
 - When prompted for cover art embedding (`Embed cover art? (y/n):`), type `y` and press Enter to embed cover art or type `n` and press Enter to skip cover art embedding
