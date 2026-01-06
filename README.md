@@ -1,4 +1,4 @@
-# Description (Windows OS Spe
+escription (Windows OS 
 
 Python script to download Adventures in Odyssey episodes with optional cover embedding
 
@@ -33,4 +33,4 @@ These can be installed by running `pip install tqdm colorama mutagen`
 - If you chose cover art, you’ll be asked: `Cover URL (blank to skip):` Paste a direct image link (ending in .jpg or .png). These can be found by searching for the episode on Google, right clicking the image, and clicking `Copy Image Link`.
 - When prompted `Press Enter for another or 'q'+Enter to quit:`, press Enter to download another episode or press `q` then Enter to quit.
 
-See [Example and Troubleshooting](Example and Troubleshooting.md) to find an example and directions for issues. 
+See [Example and Troubleshooting.md](https://github.com/davk-418/AIO-Episode-Downloader/blob/4b83efd8847f0b3e9796c525f8fde961ca862aa9/Example%20and%20Troubleshooting.md) to find an example and directions for issues. 
