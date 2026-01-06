@@ -1,0 +1,11 @@
+How to find a file directory:
+
+• Open File Explorer. 
+
+• Navigate to the folder you want the episode to save to (for example, Downloads). 
+
+• Click once in the address bar at the top — the folder path will highlight (something like C:\Users\YourName\Downloads). 
+
+• Press Ctrl + C to copy it. 
+
+• Now you can paste it into the script prompt with Ctrl + V.
