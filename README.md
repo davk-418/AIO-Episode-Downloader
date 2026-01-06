@@ -24,4 +24,5 @@ These can be installed by running `pip install tqdm colorama mutagen`
 ---
 # Usage
 
-- Open console (Command Prompt) and drag the file into it. Press Enter to run the file
+- Open console (Command Prompt) and drag the file into it. Press Enter to run the file.
+- When prompted for directory (where file will save), paste directory and press Enter (see [Directory.txt](Directory.txt) on how to find directory)
