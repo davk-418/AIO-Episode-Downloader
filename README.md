@@ -26,4 +26,5 @@ These can be installed by running `pip install tqdm colorama mutagen`
 
 - Open console (Command Prompt) and drag the file into it. Press Enter to run the file.
 - When prompted for directory (where file will save), paste directory and press Enter (see [Directory.txt](Directory.txt) on how to find directory)
-- 
+- When prompted for cover art embedding (`Embed cover art? (y/n):`), type `y` and press Enter to embed cover art or type `n` and press Enter to skip cover art embedding
+- When prompted for cURL (see [tutorial.gif](tutorial.gif) to find the cURL), paste and press Enter twice 
