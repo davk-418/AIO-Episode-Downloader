@@ -25,7 +25,7 @@ These can be installed by running `pip install tqdm colorama mutagen`
 ---
 # Usage
 
-- Download script. AIO Downloader V4 is the latest version (shout out to [YGVQ](https://ygvq.pages.dev/)), but if it fails V3 and V2 should work as backups.
+- Download script. AIO Downloader V4 is the latest version (shout out to [YGVQ](https://ygvq.pages.dev/)), but if it fails V3 and V2 should work as backups. V1 is the oldest script and is unstable.
 - Open console (Command Prompt) and drag the file into it. Press Enter to run the file.
 - When prompted for directory (where file will save), paste directory and press Enter (see [Directory](Directory.txt) on how to find directory)
 - When prompted for cover art embedding (`Embed cover art? (y/n):`), type `y` and press Enter to embed cover art or type `n` and press Enter to skip cover art embedding
