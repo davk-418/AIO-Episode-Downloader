@@ -346,7 +346,7 @@ if __name__ == "__main__":
 
     while True:
         run_download(base_dir, embed_choice, keep_original=keep_original_mp3)
-        cont = input(Fore.YELLOW + "Press Enter for another or 'q'+Enter to quit: ").strip().lower()
+        cont = input(Fore.YELLOW + "Press Enter to download another episode or 'q'+Enter to quit: ").strip().lower()
         if cont == "q":
-            print_success("\nAll done! Thanks for using AIOD, made by NotKevin and Updated by YGVQ")
+            print_success("\nAll done! Thanks for using AIOD. Created by NotKevin, updated by YGVQ")
             break
