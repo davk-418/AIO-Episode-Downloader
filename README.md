@@ -1,37 +1,21 @@
-# Description (Windows OS 
+# Overview
 
-Python script to download Adventures in Odyssey episodes with optional cover embedding
+The AIO Downloader is a Python script to download episodes from Adventures in Odyssey. Current version is Windows OS only
 
-# Requirements
+<details>
+  <summary>Requirements</summary>
 
-### Programs and Packages
+  ### Programs and Packages
 
+- **Windows OS 10 or 11**
 - **Python 3.13** or higher
-
 - **FFmpeg** (added to PATH) ([Tutorial](https://www.hostinger.com/tutorials/how-to-install-ffmpeg#How_to_install_FFmpeg_on_Windows))
-
 - **tqdm**
-
 - **colorama**
 
-- **mutagen**
+These can be installed by running `pip install tqdm colorama`
+</details>
 
-These can be installed by running `pip install tqdm colorama mutagen`
-
-- [`colorama`](https://pypi.org/project/colorama/) — colored terminal output.
-- [`tqdm`](https://pypi.org/project/tqdm/) — progress bars.
-- [`mutagen`](https://pypi.org/project/mutagen/) — audio metadata
-
----
 # Usage
 
-- Download script. AIO Downloader V4 is the latest version (shout out to [YGVQ](https://ygvq.pages.dev/)), but if it fails V3 and V2 should work as backups. V1 is the oldest script and is unstable.
-- Open console (Command Prompt) and drag the file into it. Press Enter to run the file.
-- When prompted for directory (where file will save), paste directory and press Enter (see [Directory](Directory.txt) on how to find directory)
-- When prompted for cover art embedding (`Embed cover art? (y/n):`), type `y` and press Enter to embed cover art or type `n` and press Enter to skip cover art embedding
-- If you chose `y` for cover art, you’ll see: `Keep original MP3 after embedding cover? (y/n):` Type `y` to keep both versions, or `n` to only keep the cover‑embedded copy.
-- When prompted for cURL (see [Tutorial](tutorial.gif) to find the cURL), paste and press Enter twice. If all goes well, episode will download.
-- If you chose cover art, you’ll be asked: `Cover URL (blank to skip):` Paste a direct image link (ending in .jpg or .png). These can be found by searching for the episode on Google, right clicking the image, and clicking `Copy Image Link`.
-- When prompted `Press Enter for another or 'q'+Enter to quit:`, press Enter to download another episode or press `q` then Enter to quit.
-
-See [Example and Troubleshooting.md](https://github.com/davk-418/AIO-Episode-Downloader/blob/4b83efd8847f0b3e9796c525f8fde961ca862aa9/Example%20and%20Troubleshooting.md) to find an example and directions for issues. 
+- Download 
